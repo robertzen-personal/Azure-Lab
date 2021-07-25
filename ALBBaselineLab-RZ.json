@@ -48,7 +48,7 @@
         },
         "AutoShutdownZone": {
             "type": "string",
-            "defaultValue": "Eastern Standard Time",
+            "defaultValue": "AUS Eastern Standard Time",
             "metadata": {
                 "description": "Time Zone of Daily Shutdown."
             }
