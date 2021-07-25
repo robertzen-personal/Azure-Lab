@@ -43,7 +43,7 @@
             "type": "string",
             "defaultValue": "1900",
             "metadata": {
-                "description": "Time of Daily Shutdown."
+                "description": "Time of Daily Shutdown for the VM."
             }
         },
         "AutoShutdownZone": {
