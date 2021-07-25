@@ -43,12 +43,12 @@
             "type": "string",
             "defaultValue": "1900",
             "metadata": {
-                "description": "Time of Daily Shutdown."
+                "description": "Time of Daily Shutdown for the VM."
             }
         },
         "AutoShutdownZone": {
             "type": "string",
-            "defaultValue": "Eastern Standard Time",
+            "defaultValue": "AUS Eastern Standard Time",
             "metadata": {
                 "description": "Time Zone of Daily Shutdown."
             }
